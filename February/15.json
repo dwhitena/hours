@@ -1,0 +1,39 @@
+{
+	"date": "02/15",
+	"readings": {
+		"introductory_prayer": "O God, come to our aid.\n\tO Lord, make haste to help us.\nGlory be to the Father and to the Son and to the Holy Spirit,\n\tas it was in the beginning, is now, and ever shall be, world without end.\nAmen. Alleluia.",
+		"psalms": [38, 52],
+		"first_reading": {
+			"reference": "Proverbs 9:1-18",
+			"text": ""
+		},
+		"first_responsory": [
+			{
+				"statement": "A man once gave a great banquet, and he sent his servants to tell his guests.",
+				"response": "Come, for all is now ready."
+			},
+			{
+				"statement": "Come, eat my bread and drink the wine I have mixed.",
+				"response": "Come, for all is now ready."
+			}
+		],
+		"second_reading": {
+			"reference": "Charles Spurgeon, from \"Trust in God—True Wisdom\", a sermon (No. 392) delivered on Sunday Morning, May 12th, 1861, at the Metropolitan Tabernacle, Newington",
+			"text": "Wisdom is man’s true path—that which enables him to accomplish best the end of his being, and which therefore gives to him the richest enjoyment and the fullest play for all his powers. Wisdom is the compass by which man is to steer across the trackless waste of life. Without wisdom man is as the wild asses’ colt; he runs hither and thither, wasting strength which might be profitably employed. Without wisdom, man may be compared to a soil untilled, which may yield some fair flowers but can never field a harvest which shall repay the labor of the reaper, or even the toil of the gleaner. Give man wisdom, wisdom in the true sense of the term, and he rises to all the dignity that manhood can possibly know; he becomes a fit companion for the angels, and between him and God there is no creature; he standeth next to the Eternal One because Christ has espoused his nature, and so has linked humanity with divinity. But where shall this wisdom be found? Many have dreamed that they discovered it, but they have not possessed it. Where shall we find it? ‘Twere worth while to pierce the bowels of the earth, to scale the heights of heaven, to traverse the deserts, to plough the sea, to fly through the illimitable fields of ether—all were too little if we might but find this precious thing at last. But “the depth saith, It is not in me: and the sea saith, It is not with me. It cannot be gotten for gold, neither shall silver be weighted for the price thereof. It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire. The gold and the crystal cannot equal it: and the exchange of it shall not be for jewels of fine gold. No mention shall be made of coral or of pearls: for the price of wisdom is above rubies. The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold. Whence then cometh wisdom? and where is the place of understanding? seeing it is hid from the eyes of all living, and kept close from the fowls of the air. Destruction and death say, We have heard the fame thereof with our ears. God understandeth the way thereof, and he knoweth the place thereof.\nLet us listen then to the voice of the Lord, for he hath declared the secret; he hath revealed to the sons of men wherein true wisdom lieth, and we have it in the text, “whoso trusteth in the Lord, happy is he;” and that sentence is put in conjunction with another which teaches us this truth, that to handle a matter wisely is to find good, and the true way to handle a matter wisely is to trust God. This is the short and brief method of escaping the greatest difficulties: this is the clue to the most intricate labyrinths; this is the lever which shall lift the most tremendous weights. He that trusts in the Lord has found out the way to handle matters wisely, and happy is he."
+		},
+		"second_responsory": [
+			{
+				"statement": "Wisdom has built herself a house, she has erected her seven pillars;",
+				"response": "Wisdom has prepared her wine and laid her table."
+			},
+			{
+				"statement": "He who eats my flesh and drinks my blood lives in me and I live in him, says the Lord.",
+				"responsory": "Wisdom has prepared her wine and laid her table."
+			}
+		],
+		"closing_prayer": "To those who love you, Lord,\n\tyou promise to come with your Son\n\tand make your home within them.\nCome, then, with your purifying grace\n\tand make our hearts a place where you can dwell.\nThrough our Lord Jesus Christ, your Son,\n\twho lives and reigns with you and the Holy Spirit,\n\tone God, for ever and ever."
+	},
+	"morning": {},
+	"daytime": {},
+	"evening": {}
+}
