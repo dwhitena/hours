@@ -2,6 +2,11 @@
 	"date": "02/15",
 	"readings": {
 		"introductory_prayer": "O God, come to our aid.\n\tO Lord, make haste to help us.\nGlory be to the Father and to the Son and to the Holy Spirit,\n\tas it was in the beginning, is now, and ever shall be, world without end.\nAmen. Alleluia.",
+		"hymn": {
+			"title": "Praise to the Lord, the Almighty, the King of creation", 
+			"author": "Joachim Neander (1650-1680), 1680",
+			"text": "Praise to the Lord, the Almighty, the King of creation!\nO my soul, praise him, for he is thy health and salvation!\nAll ye who hear,\nnow to his temple draw near;\npraise him in glad adoration.\n\nPraise to the Lord, who over all things so wondrously reigneth,\nshelters thee under his wings, yea, so gently sustaineth!\nHast thou not seen\nhow thy desires ever have been\ngranted in what he ordaineth?\nPraise to the Lord, who doth prosper thy work and defend thee;\nsurely his goodness and mercy here daily attend thee.\nPonder anew\nwhat the Almighty can do,\nif with his love he befriend thee.\n\nPraise to the Lord, who, when tempests their warfare are waging,\nwho, when the elements madly around thee are raging,\nbiddeth them cease,\nturneth their fury to peace,\nWhirlwinds and waters assuaging.\n\nPraise to the Lord, who, when darkness of sin is abounding,\nwho, when the godless do triumph, all virtue confounding,\nsheddeth his light,\nchaseth the horrors of night,\nsaints with his mercy surrounding.\n\nPraise to the Lord, O let all that is in me adore him!\nAll that hath life and breath, come now with praises before him.\nLet the amen\nsound from his people again,\ngladly for all we adore him."
+		},
 		"psalms": [38, 52],
 		"first_reading": {
 			"reference": "Proverbs 9:1-18",
@@ -33,7 +38,44 @@
 		],
 		"closing_prayer": "To those who love you, Lord,\n\tyou promise to come with your Son\n\tand make your home within them.\nCome, then, with your purifying grace\n\tand make our hearts a place where you can dwell.\nThrough our Lord Jesus Christ, your Son,\n\twho lives and reigns with you and the Holy Spirit,\n\tone God, for ever and ever."
 	},
-	"morning": {},
+	"morning": {
+		"introductory_prayer": "O God, come to our aid.\n\tO Lord, make haste to help us.\nGlory be to the Father and to the Son and to the Holy Spirit,\n\tas it was in the beginning, is now, and ever shall be, world without end.\nAmen. Alleluia.",
+		"hymn": {
+			"title": "",
+			"author": "",
+			"text": ""	
+		},
+		"psalms": [77, 97],
+		"first_canticle": {
+			"reference": "1 Samuel 2:1-10",
+			"text":
+		},
+		"short_reading": {
+			"reference": "Romans 8:35-37",
+			"text": ""
+		},
+		"short_responsory": [
+			{
+				"statement": "I will praise the Lord at all times.",
+				"response": "I will praise the Lord at all times."
+			},
+			{
+				"statement": "His praise will be always on my lips.",
+				"response": "I will praise the Lord at all times."
+			},
+			{
+				"statement": "Glory be to the Father and to the Son and to the Holy Spirit.",
+				"response": "I will praise the Lord at all times."
+			}
+
+		],
+		"second_canticle": {
+			"reference": "",
+			"text": ""
+		},
+		"prayers": [
+		]
+	},
 	"daytime": {},
 	"evening": {}
 }
