@@ -41,9 +41,9 @@
 	"morning": {
 		"introductory_prayer": "O God, come to our aid.\n\tO Lord, make haste to help us.\nGlory be to the Father and to the Son and to the Holy Spirit,\n\tas it was in the beginning, is now, and ever shall be, world without end.\nAmen. Alleluia.",
 		"hymn": {
-			"title": "",
-			"author": "",
-			"text": ""	
+			"title": "The Love of Christ is Rich and Free",
+			"author": "Sandra McCracken",
+			"text": "The love of Christ is rich and free;\nFixed on His own eternally;\nNor earth, nor hell, can it remove;\nLong as He lives, His own He’ll love.\n\nHis loving heart engaged to be\nTheir everlasting Surety;\n’Twas love that took their cause in hand,\nAnd love maintains it to the end.\n\nLove cannot from its post withdraw;\nNor death, nor hell, nor sin, nor law,\nCan turn the Surety’s heart away;\nHe’ll love His own to endless day.\n\nLove has redeemed His sheep with blood;\nAnd love will bring them safe to God;\nLove calls them all from death to life;\nAnd love will finish all their strife.\n\nHe loves through every changing scene,\nNor aught from Him can Zion wean;\nNot all the wanderings of her heart\nCan make His love for her depart.\nAt death, beyond the grave, He’ll love;\nIn endless bliss, His own shall prove\nThe blazing glory of that love\nWhich never could from them remove."	
 		},
 		"psalms": [77, 97],
 		"first_canticle": {
@@ -70,10 +70,12 @@
 
 		],
 		"second_canticle": {
-			"reference": "",
-			"text": ""
+			"reference": "Deric Thomas, from \"The Gospel: Who We Are,\" from the sermon series \"Lifeblood: The One Thing You Can't Live Without,\" March 30, 2008 – May 4, 2008",
+			"text": "We need to be freed from the bondage of our sin. We need to be redeemed by the blood of Christ. If you are in Christ, you have been. Because, the price, the atonement was paid. Jesus lived the perfect life that you couldn’t. He died the perfect death that you could not. He didn’t deserve it, but He died as a substitute...substitutionary atonement in your place. He was the Lamb of God that all the other lambs would cry and point to. Jesus, the Lamb of God who had come to take away the sins of His people. That is redemption, and now, as a result of that, you have been set free, Christian. Your identity is “free one.” Your identity is “free one.” We were redeemed in Christ. We have been redeemed by the blood of Christ. We are free from bondage. Our identity is free man, free woman. You are not longer in Egypt. You are no longer in sin, and you are free in Christ."
 		},
-		"prayers": [
+		"prayer": [
+			"Nothing can separate us from the love of Christ, for he promised to be with his Church until the end of time. With confidence in his promise we pray:\nStay with us, Lord Jesus.\nIn all things we are victorious through your love;\ntake us into your care today.\nStay with us, Lord Jesus.\nLet the love of your Holy Spirit be in our hearts:\nso that we may consecrate this day to you.\nStay with us, Lord Jesus.\nMay I be faithful to your call: may they be salt to the earth and light to the world.\nStay with us, Lord Jesus.\nWe pray for our brothers and sisters, both in ministry and in industry: may they work in harmony to further your gospel to the ends of the world.\nStay with us, Lord Jesus.",
+			"Our Father, who art in heaven,\nhallowed be thy name.\nThy kingdom come.\nThy will be done on earth, as it is in heaven.\nGive us this day our daily bread,\nand forgive us our trespasses,\nas we forgive those who trespass against us,\nand lead us not into temptation,\nbut deliver us from evil."
 		]
 	},
 	"daytime": {},
